@@ -17,7 +17,7 @@ int main(){
     cin >> s;
     }
     while(s == "yes");
-    cout << "Thank you for reversig the numbers";
+    cout << "Thank you for reversing the numbers";
 
    return 0;
 }
